@@ -19,7 +19,7 @@ interface DataProps {
 
 export default defineComponent({
   name: "App",
-  setup() {
+  setup() { 
     // const count = ref(0);
     // const double = computed(() => {
     //   return count.value * 2;
