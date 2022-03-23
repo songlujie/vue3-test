@@ -3,7 +3,7 @@
   <h1>{{ count }}</h1>
   <h1>{{ double }}</h1>
   <button @click="increase">+1</button>
-  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+  <HelloWorld msg="hello world" />
 </template>
 
 <script lang="ts">
