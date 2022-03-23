@@ -3,7 +3,7 @@
   <h1>{{ count }}</h1>
   <h1>{{ double }}</h1>
   <button @click="increase">+1</button>
-  <HelloWorld msg="hello world" />
+  <HelloWorld msg="hello world123" />
 </template>
 
 <script lang="ts">
